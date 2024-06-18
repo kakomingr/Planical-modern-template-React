@@ -1,1 +1,0 @@
-# Planical-modern-template-React
